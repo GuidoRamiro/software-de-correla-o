@@ -1,4 +1,4 @@
-# Tutorial de uso
+# Tutorial de uso do código main.py
 1. O vídeo deverá estar no formato mp4;
 2. Rode o código (recomendado utilizar a IDLE Visual Code);
 3. Em "Digite o caminho do vídeo de entrada", coloque o endereço do arquivo mp4;
